@@ -54,7 +54,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={styles.footerBottom}>
-        <p>&copy; {new Date().getFullYear()} PlayStore. Все права защищены.</p>
+        <p>&copy; {new Date().getFullYear()} PlayStore.</p>
       </div>
     </footer>
   );
